@@ -4,7 +4,7 @@ A simple arduino blinky example for the Arduino Nano 33 IoT. This code is the de
 
 ## Compilation
 
-The code can be compiled to a using `cargo-objcopy`, which compiles and outputs to a binary in one go
+The code can be compiled using `cargo-objcopy`, which compiles and outputs to a binary in one go
 
 ```
 cargo objcopy --release -- -O binary blink.bin
