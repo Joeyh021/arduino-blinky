@@ -1,10 +1,10 @@
 [package]
 name = "blinky"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2018"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-arduino_nano33iot = { path = "C:\\Users\\josep\\code\\arduino_nano33iot" }
+arduino_nano33iot = "0.7.0"
 panic-halt = "0.2.0"
