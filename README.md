@@ -1,6 +1,6 @@
 # Arduino-Blinky
 
-A simple arduino blinky example for the Arduino Nano 33 IoT. This code is the demo from [a talk I gave for UWCS in October 2020](https://www.youtube.com/watch?v=-6nDuX_jMBw), and also accompanies [this blog post]().
+A simple arduino blinky example for the Arduino Nano 33 IoT. This code is the demo from [a talk I gave for UWCS in October 2020](https://www.youtube.com/watch?v=-6nDuX_jMBw), and also accompanies [this blog post](https://joeyh.dev/blog/rust_arduino/).
 
 ## Compilation
 
